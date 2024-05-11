@@ -6,7 +6,7 @@ First, install dependencies:
 npm install
 ```
 
-Then create a `.env.local` file and add your OpenAI API key:
+Then, create a `.env.local` file and add your OpenAI API key:
 
 ```bash
 # filename: .env.local
