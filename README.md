@@ -8,8 +8,8 @@ npm install
 
 Then create a `.env.local` file and add your OpenAI API key:
 
-##### filename: `.env.local`
-```plaintext
+```bash
+# filename: .env.local
 OPENAI_API_KEY=xxxxxx
 ```
 
